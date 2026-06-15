@@ -1,6 +1,9 @@
 # 🐄 Centralized Data Mart & Gestalt BI Dashboard — Thesis Project (BIB Lembang)
 
-![Dashboard Preview](screenshots/dashboard_preview.png) 
+![Pelayanan](Screenshots/Dashboard%20Pelayanan.png)
+![Pemeliharaan Ternak](Screenshots/Dashboard%20Pemeliharaan%20Ternak.png)
+![Produksi, Distribusi, dan Informasi Pelayanan](Screenshots/Dashboard%20Produksi,%20Distribusi,&20dan%20Informasi%20Pelayanan.png)
+![Tata Usaha & Kinerja Keuangan](Screenshots/Dashboard%20Tata%20Usaha%20&%20Kinerja&20Keuangan.png)
 
 ## 📌 Project Overview
 Project Tugas Akhir ini bertujuan untuk mentransformasi sistem pelaporan di Balai Inseminasi Buatan (BIB) Lembang dengan membangun **Centralized Data Mart** dan merancang Business Intelligence Dashboard menggunakan pendekatan **Design Thinking** dan **Prinsip Visualisasi Gestalt**. Solusi ini mengeliminasi masalah *data silos* serta inkonsistensi data antar divisi menjadi *insight* yang terpadu, interaktif, dan mudah dipahami oleh pengambil keputusan.
