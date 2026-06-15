@@ -2,7 +2,7 @@
 
 ![Pelayanan](Screenshots/Dashboard%20Pelayanan.png)
 ![Pemeliharaan Ternak](Screenshots/Dashboard%20Pemeliharaan%20Ternak.png)
-![Produksi, Distribusi, dan Informasi Pelayanan](Screenshots/Dashboard%20Produksi,%20Distribusi,&20dan%20Informasi%20Pelayanan.png)
+![Produksi, Distribusi, dan Informasi Pelayanan](Screenshots/Dashboard%20Produksi%20Distribusi&20dan%20Informasi%20Pelayanan.png)
 ![Tata Usaha & Kinerja Keuangan](Screenshots/Dashboard%20Tata%20Usaha%20&%20Kinerja&20Keuangan.png)
 
 ## 📌 Project Overview
